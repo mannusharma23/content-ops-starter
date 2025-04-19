@@ -46,7 +46,11 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: How AI is Reshaping  Digital Marketing
-  metaDescription: ''
+  metaDescription: >-
+    Artificial Intelligence (AI) is transforming industries worldwide, and
+    digital marketing is no exception. From personalized customer experiences to
+    automated ad campaigns, AI is revolutionizing how businesses connect with
+    their audiences.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
