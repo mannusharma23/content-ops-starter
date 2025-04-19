@@ -2,7 +2,11 @@
 type: PostLayout
 title: How AI is Reshaping Digital Marketing
 date: '2025-04-19'
-excerpt: ''
+excerpt: >-
+  Artificial Intelligence (AI) is transforming industries worldwide, and digital
+  marketing is no exception. From personalized customer experiences to automated
+  ad campaigns, AI is revolutionizing how businesses connect with their
+  audiences.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
