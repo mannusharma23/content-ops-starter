@@ -9,7 +9,7 @@ excerpt: >-
   audiences.
 featuredImage:
   type: ImageBlock
-  url: /images/acgdigitalmarketing 1.png
+  url: /images/acgdigitalmarketing 2.png
   altText: Thumbnail
   elementId: ''
   styles:
