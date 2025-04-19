@@ -45,7 +45,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: How AI is Reshaping  Digital Marketing
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
