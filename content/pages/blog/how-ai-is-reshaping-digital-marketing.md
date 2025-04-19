@@ -46,7 +46,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: How AI is Reshaping  Digital Marketing
-  metaDescription: lorem-ipsum
+  metaDescription: ''
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
