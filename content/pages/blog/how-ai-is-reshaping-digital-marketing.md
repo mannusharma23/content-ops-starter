@@ -3,11 +3,13 @@ type: PostLayout
 title: How AI is Reshaping Digital Marketing
 date: '2025-04-19'
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Artificial Intelligence (AI) is transforming industries worldwide, and digital
+  marketing is no exception. From personalized customer experiences to automated
+  ad campaigns, AI is revolutionizing how businesses connect with their
+  audiences.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/acgdigitalmarketing 2.png
   altText: Thumbnail
   elementId: ''
   styles:
@@ -43,8 +45,12 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaTitle: How AI is Reshaping  Digital Marketing
+  metaDescription: >-
+    Artificial Intelligence (AI) is transforming industries worldwide, and
+    digital marketing is no exception. From personalized customer experiences to
+    automated ad campaigns, AI is revolutionizing how businesses connect with
+    their audiences.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
