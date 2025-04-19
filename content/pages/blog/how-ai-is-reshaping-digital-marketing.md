@@ -2,7 +2,6 @@
 type: PostLayout
 title: How AI is Reshaping Digital Marketing
 date: '2025-04-19'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
